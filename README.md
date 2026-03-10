@@ -96,4 +96,4 @@ Things especially worth debating:
 
 ---
 
-*Draft by [@SerSleepy](https://nostr.com) · Contributions welcome · Not yet merged into nostr-protocol/nips*
+*Draft by [@SerSleepy](https://damus.io/npub1jk9h2jsa8hjmtm9qlcca942473gnyhuynz5rmgve0dlu6hpeazxqc3lqz7) · Contributions welcome · Not yet merged into nostr-protocol/nips*
